@@ -1,4 +1,4 @@
-package at.ac.fhsalzburg.sproof;
+package io.sproof;
 
 import java.math.BigInteger;
 import java.util.Objects;

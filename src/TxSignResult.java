@@ -1,4 +1,4 @@
-package at.ac.fhsalzburg.sproof;
+package io.sproof;
 
 /**
  * Containerklasse fuer eine signierte Transaktion und deren Hash in HEX Format

@@ -1,4 +1,4 @@
-package at.ac.fhsalzburg.sproof;
+package io.sproof;
 
 /**
  * Containerklasse fuer die Teile einer Signatur (r,s,v)

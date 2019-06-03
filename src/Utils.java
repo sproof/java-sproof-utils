@@ -1,4 +1,4 @@
-package at.ac.fhsalzburg.sproof;
+package io.sproof;
 
 import org.bitcoinj.crypto.*;
 import org.bitcoinj.wallet.DeterministicKeyChain;
